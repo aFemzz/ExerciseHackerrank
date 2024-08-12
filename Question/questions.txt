@@ -1,0 +1,6 @@
+
+1. Maximum Score 2
+2. Maximize the Revenue
+3. Student Grades
+4. SQL: Smart Home Application Customer
+5. SQL: Billing Software Report
